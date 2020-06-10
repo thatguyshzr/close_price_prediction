@@ -1,1 +1,1 @@
-#make predictions on the close prices
+# Making predictions using stock market data
